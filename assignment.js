@@ -50,7 +50,7 @@ if(floor<=10)
 {
     result=15*floor;
 }
-else if(floor>10 &&floor<20)
+else if(floor>10 &&floor<=20)
 {
     result=10*15+(floor-10)*12;
 }
